@@ -54,6 +54,4 @@ class Stack {
 
     return objString;
   }
-
-
 }
